@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColdByDefault
+- 👋 Hi, I’m Yazan
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning Specialist Application Development
 - 💞️ Python
