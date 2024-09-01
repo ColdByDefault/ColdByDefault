@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yazan<br>👀 I’m interested in Full-Stack development<br>🌱 I’m currently learning Specialist Application Development<br>💞️ Python<br>
+👋 Hi, I’m Yazan<br>👀 I’m interested in Full-Stack development<br>🌱 I’m currently learning Software Development<br>💞️ Python<br>
 
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/652405354c7f3e98be4dada2?variant=dark)](https://roadmap.sh)
