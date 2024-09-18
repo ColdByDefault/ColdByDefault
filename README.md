@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Yazan<br>👀 I’m interested in Full-Stack development<br>🌱 I’m currently learning Software Development<br>💞️ Python JS HTML/CSS NEXT.JS FLASK<br>
 ---
-![COLD(1)](https://github.com/user-attachments/assets/56b1f2d3-1b37-4942-b61d-85c69071cfe8)
+![Screenshot 2024-09-18 194339](https://github.com/user-attachments/assets/d25f20dc-0eb2-44f5-b411-fcaaf5ae2e4c)
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/652405354c7f3e98be4dada2?variant=dark&roadmaps=frontend%2Cbackend%2Cgit-github%2Cpython)](https://roadmap.sh)
 ---
