@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Software Development
 - 💞️ Python
 ---
-### Visit: ![ColdByDefault](https://coldbydefault.com/)
+Visit the live site here:  
+**[coldbydefault.com](https://www.coldbydefault.com)**
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
 ---
