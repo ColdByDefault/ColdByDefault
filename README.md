@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m Yazan
-- 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning Software Development
-- 💞️ Python
+- self.name = 'Yazan'
+- self.interest = 'I\’m interested in Full-Stack development'
+- self.progress = 'I\’m currently learning Software Development'
+- return f"Python and {others}"
 ---
 Visit my live site here:  
 **[coldbydefault](https://www.coldbydefault.com)**
