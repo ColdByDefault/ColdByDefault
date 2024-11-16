@@ -6,7 +6,7 @@
 - 💞️ Python
 ---
 Visit my live site here:  
-**[coldbydefault.com](https://www.coldbydefault.com)**
+**[coldbydefault](https://www.coldbydefault.com)**
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
 ---
