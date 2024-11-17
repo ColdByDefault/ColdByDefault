@@ -1,9 +1,22 @@
 # 💫 About Me:
 
-- self.name = 'Yazan'
-- self.interest = 'I\’m interested in Full-Stack development'
-- self.progress = 'I\’m currently learning Software Development'
-- return f"Python and {others}"
+```
+class Bio:
+    def __init__(self):
+        self.name = "Yazan"
+        self.interests = "Full-Stack Development and Machine Learning"
+        self.current_focus = "Software Development"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+    
+    def __str__(self):
+        return (
+            f"{self.name}: Currently learning {self.current_focus}. "
+            f"Interested in {self.interests} and working with languages like {', '.join(self.languages)}."
+        )
+
+bio = Bio()
+print(bio)
+```
 ---
 Visit my live site here:  
 **[coldbydefault](https://www.coldbydefault.com)**
