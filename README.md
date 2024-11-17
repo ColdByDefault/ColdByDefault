@@ -18,8 +18,12 @@ bio = Bio()
 print(bio)
 ```
 ---
-Visit my live site here:  
+Check my live site here:  
 **[coldbydefault](https://www.coldbydefault.com)**
+
+Check My Live Flask-App:    
+**[BeRich](https://coldbydefault070.pythonanywhere.com/)**
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
 ---
