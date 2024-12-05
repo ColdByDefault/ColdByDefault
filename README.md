@@ -1,4 +1,6 @@
-# Hey you!
+**Hey you!**
+
+It's me Yazan, and I am so very learning "Software Development"
 
 ```
 print("success is my only mf option")
