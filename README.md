@@ -25,11 +25,8 @@ Check My Live Flask-App:
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
 ---
-[![wakatime](https://wakatime.com/badge/user/c4621892-41e0-4c29-a8bc-05597d124f63.svg)](https://wakatime.com/@c4621892-41e0-4c29-a8bc-05597d124f63)
----
 
-[![roadmap.sh](https://roadmap.sh/card/tall/652405354c7f3e98be4dada2?variant=dark&roadmaps=frontend%2Cbackend%2Cgit-github%2Cpython)](https://roadmap.sh)
----
+
 
 
 
