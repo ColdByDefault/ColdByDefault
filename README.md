@@ -1,7 +1,7 @@
-# 💫 About Me:
+# Hey you!
 
 ```
-print("success is my only mf option"
+print("success is my only mf option")
 ```
 ---
 Check My Live Sites:  
