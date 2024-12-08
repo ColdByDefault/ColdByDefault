@@ -18,9 +18,17 @@ Check My Live Sites:
 
 
 
-Check My Live Flask-App:    
+Check My Live Flask-App:
+
+**V2.0.0**
+
 **[BeRich](https://coldbydefault070.pythonanywhere.com/)**
   ||  **[Source Code](https://github.com/ColdByDefault/beRich)**
+
+**V3.0.0**
+
+**[BeRich](https://www.coldbydefault.com/beRichLibrary)**
+  ||  **[Source Code](https://github.com/ColdByDefault/beRichLibrary)**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
