@@ -18,14 +18,14 @@ Check My Live Sites:
 
 
 
-Check My Live Flask-App:
+Check My beRich.Library:
 
-**V2.0.0**
+**Python/Flask V2.0.0**
 
 **[BeRich](https://coldbydefault070.pythonanywhere.com/)**
   ||  **[Source Code](https://github.com/ColdByDefault/beRich)**
 
-**V3.0.0**
+**React/vite/NEXT UI V3.0.0**
 
 **[BeRich](https://www.coldbydefault.com/beRichLibrary)**
   ||  **[Source Code](https://github.com/ColdByDefault/beRichLibrary)**
