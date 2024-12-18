@@ -25,10 +25,10 @@ Check My beRich.Library:
 **[BeRich](https://coldbydefault070.pythonanywhere.com/)**
   ||  **[Source Code](https://github.com/ColdByDefault/beRich)**
 
-**React/vite/NEXT UI V3.0.0**
+**NEXT.JS V3.1.1**
 
-**[BeRich](https://www.coldbydefault.com/beRichLibrary)**
-  ||  **[Source Code](https://github.com/ColdByDefault/beRichLibrary)**
+**[BeRich.Library](https://berichlibrary.coldbydefault.com/)**
+  ||  **[Source Code](https://github.com/ColdByDefault/beRichLibrary_Fullstack)**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ColdByDefault&icon=5&color=1)](https://visitcount.itsvg.in)
