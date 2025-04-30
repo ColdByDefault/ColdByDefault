@@ -5,6 +5,9 @@ It's me Yazan, and I am so very learning "Software Development"
 ```
 print("success is my only mf option")
 ```
+
+Intern at avarno GmbH
+
 ---
 Check My Live Sites:  
 **[coldbydefault](https://www.coldbydefault.com)**
