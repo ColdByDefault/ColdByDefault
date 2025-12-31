@@ -1,10 +1,8 @@
 **Hey you!**
 
-It's me Yazan, and I am so very learning "Software Development"
+*I enjoy building*
+Automation & AI-Powered Web MVPs | Helping Agencies & SMEs Streamline Workflows
 
-```
-print("success is my only mf option")
-```
 
 
 ---
