@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm ColdByDefault 👋
+## Hey, I'm Yazan 👋
 
 ### Full-Stack Developer · AI & Automation Specialist
 
@@ -69,17 +69,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdByDefault&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
 
 </div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=c4621892-41e0-4c29-a8bc-05597d124f63&theme=dark&hide_border=true&layout=compact)](https://wakatime.com/@c4621892-41e0-4c29-a8bc-05597d124f63)
-
-</div>
-
 ---
 
 <div align="center">
