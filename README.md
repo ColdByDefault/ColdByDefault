@@ -61,16 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ColdByDefault&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdByDefault&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-
-</div>
----
-
 <div align="center">
 
 *Open to freelance projects & collaborations — feel free to reach out!*
