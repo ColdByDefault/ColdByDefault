@@ -55,7 +55,7 @@
 | **[Portfolio](https://github.com/ColdByDefault/Portfolio)** | AI-powered Portfolio 🌐 [Live](https://coldbydefault.com) | Next.js 16 · React 19 · shadcn/ui · MCP |
 | **[beRichHub](https://github.com/ColdByDefault/beRichHub)** | LLM-powered developer hub with curated learning resources | Next.js 15 · Prisma · Neon · Kinde Auth |
 | **[meeting-intelligence](https://github.com/ColdByDefault/meeting-intelligence)** | Transforms voice memos into actionable Notion notes in 30 seconds | Next.js · Groq Whisper · Notion API |
-| **[next-seo-lite](https://github.com/ColdByDefault/next-seo-lite)** | Zero-dependency SEO helper for Next.js App Router | TypeScript · npm package |
+| **[next-seo-lite](https://github.com/ColdByDefault/next-seo-lite)** | Zero-dependency SEO helper for Next.js App Router 🌐 [Live](https://ready-to-use-auth.vercel.app/) | TypeScript · npm package |
 | **[ready-to-use-auth](https://github.com/ColdByDefault/ready-to-use-auth)** | Ready-to-use auth setup with Next.js & Better Auth | Next.js · Better Auth |
 | **[princeps](https://github.com/ColdByDefault/princeps)** | Private AI workspace for chat, knowledge retrieval & assistant tuning | Agentic AI . Next.js · OpenAI · Prisma |
 | **[allTracks](https://github.com/ColdByDefault/all-tracks)** | Simple Habits Tracker with stylish heatmap 🌐 [Live](https://all-tracks-coral.vercel.app/landing) | Next.js . Neon . Vercel |
