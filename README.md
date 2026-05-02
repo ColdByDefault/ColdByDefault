@@ -34,7 +34,7 @@ Currently, I focus on:
 - Automation dashboards and internal tools
 - Full-stack SaaS-style MVPs
 - Developer tools and reusable templates
-- Local AI workflows using Ollama and agentic systems
+- Local/cloude AI workflows using Ollama and agentic systems
 - Clean, scalable apps with Next.js, React, Prisma, and PostgreSQL
 
 ---
